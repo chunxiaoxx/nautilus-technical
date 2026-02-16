@@ -1,0 +1,14 @@
+{
+  "lastChecks": {
+    "email": 1771230780,
+    "calendar": null,
+    "weather": 1771243860
+  },
+  "lastHeartbeat": 1771243860,
+  "lastWeather": {
+    "temp": 5.2,
+    "code": 61,
+    "wind": 12.3,
+    "condition": "light rain"
+  }
+}
